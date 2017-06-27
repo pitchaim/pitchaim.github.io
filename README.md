@@ -6,13 +6,13 @@ In the course of my research I employ (or plan to employ) both neuroimaging and 
 
 ## Education
 
-'2016-2018' Bachelor's of Science in Computer Science, University of Pittsburgh, Pittsburgh, PA
+**2016-2018** Bachelor's of Science in Computer Science, University of Pittsburgh, Pittsburgh, PA
 
-'2010-2014' Bachelor's of Science in Psychology, Carnegie Mellon University, Pittsburgh, PA
+**2010-2014** Bachelor's of Science in Psychology, Carnegie Mellon University, Pittsburgh, PA
 
 ## Research
 
-'2016-present' Research Associate/Lab Manager for Tarrlab, Carnegie Mellon University Department of Psychology, Pittsburgh, PA; PI: Dr. Michael Tarr
+**2016-present** Research Associate/Lab Manager for Tarrlab, Carnegie Mellon University Department of Psychology, Pittsburgh, PA; PI: Dr. Michael Tarr
 
-'2014-2017' Research Assistant for Perfetti Lab, University of Pittsburgh Learning Research & Development Center, Pittsburgh, PA; PI: Dr. Charles Perfetti
+**2014-2017** Research Assistant for Perfetti Lab, University of Pittsburgh Learning Research & Development Center, Pittsburgh, PA; PI: Dr. Charles Perfetti
 
