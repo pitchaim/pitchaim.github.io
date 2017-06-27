@@ -13,5 +13,6 @@ In the course of my research I employ (or plan to employ) both neuroimaging and 
 ## Research
 
 2016-present Research Associate/Lab Manager for Tarrlab, Carnegie Mellon University Department of Psychology, Pittsburgh, PA; PI: Dr. Michael Tarr
+
 2014-2017 Research Assistant for Perfetti Lab, University of Pittsburgh Learning Research & Development Center, Pittsburgh, PA; PI: Dr. Charles Perfetti
 
