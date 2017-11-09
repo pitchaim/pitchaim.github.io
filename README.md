@@ -14,13 +14,11 @@ In the course of my research I employ both neuroimaging and computational modeli
 
 ## Research
 
-**2016-present** 
-
+**2016-present**  
 Research Associate/Lab Manager for TarrLab, Carnegie Mellon University Department of Psychology, Pittsburgh, PA  
 PI: Dr. Michael Tarr; Primary focus: Vision science
 
-**2014-2017** 
-
+**2014-2017**  
 Research Assistant for Perfetti Lab, University of Pittsburgh Learning Research & Development Center, Pittsburgh, PA   
 PI: Dr. Charles Perfetti; Primary focus: Cognition of language
 
