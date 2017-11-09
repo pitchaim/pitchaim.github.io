@@ -8,9 +8,11 @@ In the course of my research I employ both neuroimaging and computational modeli
 
 ## Education
 
-**2016-2018** Bachelor's of Science in Computer Science, University of Pittsburgh, Pittsburgh, PA
+**2016-2018**  
+Bachelor's of Science in Computer Science, University of Pittsburgh, Pittsburgh, PA
 
-**2010-2014** Bachelor's of Science in Psychology, Carnegie Mellon University, Pittsburgh, PA
+**2010-2014**  
+Bachelor's of Science in Psychology, Carnegie Mellon University, Pittsburgh, PA
 
 ## Research
 
