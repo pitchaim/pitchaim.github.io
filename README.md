@@ -32,12 +32,10 @@ PI: Dr. Charles Perfetti; Focus: Cognition of language
 ## Projects I've Worked On
 
 **[BOLD5000](bold5000.github.io)**  
-Large-scale neuroimaging dataset comprising fMRI scans of brain activity in response to over 5000 images drawn from prominent computer vision datasets. Assisted with various stages including experiment implementation and data management.
+Large-scale neuroimaging dataset comprising fMRI scans of brain activity in response to over 5000 images drawn from prominent computer vision datasets. Assisted with various stages, including experiment implementation, and software solutions for data management.
 
-Jayanth Koushik, Austin Marcus, Aarti Singh, and Michael J. Tarr (2018, May). Real-Time Optimization for Visual Feature     
-  Identification. Poster session presented at the annual 	meeting of the Vision Sciences Society, St. Pete Beach, FL.
+Jayanth Koushik, Austin Marcus, Aarti Singh, and Michael J. Tarr (2018, May). **Real-Time Optimization for Visual Feature     
+  Identification**. Poster session presented at the annual 	meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
-John A. Pyles, Emily D. Grossman, Austin I.  Marcus, and Michael J. Tarr (2018, May). Combined Structural and Functional Mapping 
-  of the Superior Temporal Sulcus. Poster 	session presented at the annual meeting of the Vision Sciences Society, St. Pete. 
-  Beach, FL.
+John A. Pyles, Emily D. Grossman, Austin I.  Marcus, and Michael J. Tarr (2018, May). **Combined Structural and Functional Mapping of the Superior Temporal Sulcus**. Poster session presented at the annual meeting of the Vision Sciences Society, St. Pete. Beach, FL.
 
