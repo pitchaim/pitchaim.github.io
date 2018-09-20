@@ -9,7 +9,6 @@ In the course of my research I employ both neuroimaging and computational modeli
 ## Education
 
 **2018-2019**
-
 Master's of Science in Computer Science, University of Pittsburgh, Pittsburgh, PA
 
 **2016-2018**  
