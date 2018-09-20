@@ -31,7 +31,7 @@ PI: Dr. Charles Perfetti; Focus: Cognition of language
 
 ## Projects I've Worked On
 
-**[BOLD5000](bold5000.github.io)**  
+**[BOLD5000](https://bold5000.github.io)**  
 Large-scale neuroimaging dataset comprising fMRI scans of brain activity in response to over 5000 images drawn from prominent computer vision datasets. Assisted with various stages, including experiment implementation, and software solutions for data management.
 
 Jayanth Koushik, Austin Marcus, Aarti Singh, and Michael J. Tarr (2018, May). **Real-Time Optimization for Visual Feature     
