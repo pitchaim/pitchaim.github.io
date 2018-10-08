@@ -25,7 +25,7 @@ Bachelor's of Science in Psychology, Carnegie Mellon University, Pittsburgh, PA
 Research Associate/Lab Manager for TarrLab, Carnegie Mellon University Department of Psychology, Pittsburgh, PA  
 PI: Dr. Michael Tarr; Focus: Vision science
 
-**2014-2017**  
+**2014-2018**  
 Research Assistant for Perfetti Lab, University of Pittsburgh Learning Research & Development Center, Pittsburgh, PA   
 PI: Dr. Charles Perfetti; Focus: Cognition of language
 
@@ -38,4 +38,15 @@ Jayanth Koushik, Austin Marcus, Aarti Singh, and Michael J. Tarr (2018, May). **
   Identification**. Poster session presented at the annual 	meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
 John A. Pyles, Emily D. Grossman, Austin I.  Marcus, and Michael J. Tarr (2018, May). **Combined Structural and Functional Mapping of the Superior Temporal Sulcus**. Poster session presented at the annual meeting of the Vision Sciences Society, St. Pete. Beach, FL.
+
+## Technological Experience
+- Object-oriented programming (Java, Python, Javascript)
+- Systems software (C)
+- Scientific computation/data analysis (Matlab, Python)
+- Deep learning (Python, Matlab)
+- Computer vision (Python, Matlab)
+- Operating systems: Unix/Linux, MacOS, Windows
+- Team software development
+- Application development lead
+- Neuroimaging data analysis (Freesurfer, BrainVoyager)
 
