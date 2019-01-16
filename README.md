@@ -32,7 +32,7 @@ PI: Dr. Charles Perfetti; Focus: Cognition of language
 ## Projects I've Worked On
 
 **[BOLD5000](https://bold5000.github.io)**  
-Large-scale neuroimaging dataset comprising fMRI scans of brain activity in response to over 5000 images drawn from prominent computer vision datasets. Aimed toward establishing a concrete, lasting link between the human and computer vision research communities to work toward a comprehensive understanding of vision.
+Large-scale neuroimaging dataset comprising fMRI scans of brain activity in response to over 5000 images drawn from prominent computer vision datasets. Aimed toward establishing a concrete, lasting link between the human and computer vision research communities to work toward a comprehensive, multidisciplinary understanding of vision.
 
 Jayanth Koushik, Austin Marcus, Aarti Singh, and Michael J. Tarr (2018, May). **Real-Time Optimization for Visual Feature     
   Identification**. Poster session presented at the annual 	meeting of the Vision Sciences Society, St. Pete Beach, FL.
