@@ -39,12 +39,14 @@ Jayanth Koushik, Austin Marcus, Aarti Singh, and Michael J. Tarr (2018, May). **
 
 John A. Pyles, Emily D. Grossman, Austin I.  Marcus, and Michael J. Tarr (2018, May). **Combined Structural and Functional Mapping of the Superior Temporal Sulcus**. Poster session presented at the annual meeting of the Vision Sciences Society, St. Pete. Beach, FL.
 
-## Technological Experience
+## Tech Skills
 - Object-oriented programming (Java, Python, Javascript)
 - Systems software (C)
 - Scientific computation/data analysis (Matlab, Python)
 - Deep learning (Python, Matlab)
 - Computer vision (Python, Matlab)
+- Natural language processing (Python)
+- Artificial intelligence - search, planning, problem solving
 - Operating systems: Unix/Linux, MacOS, Windows
 - Team software development
 - Application development lead
