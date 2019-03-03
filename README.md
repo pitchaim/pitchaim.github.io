@@ -46,7 +46,7 @@ John A. Pyles, Emily D. Grossman, Austin I.  Marcus, and Michael J. Tarr (2018, 
 - Deep learning (Python, Matlab)
 - Computer vision (Python, Matlab)
 - Natural language processing (Python)
-- Artificial intelligence - search, planning, problem solving
+- Artificial intelligence - search, planning, reinforcement learning
 - Operating systems: Unix/Linux, MacOS, Windows
 - Team software development
 - Application development lead
